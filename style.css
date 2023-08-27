@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+#image{
+    height: 370px;
+    width: 700px;
+    margin-left: 350px;
+    margin-top: 35px;
+    border: 5px solid white;
+}
+h1{
+    color: white;
+    margin-left: 430px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+}
+p{
+    color: white;
+    margin-top: 10px;
+    margin-left: 438px;
+
+}
